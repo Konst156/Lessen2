@@ -1,0 +1,15 @@
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Exsample010_MethodArray\bin\Debug\net7.0\Exsample010_MethodArray.exe
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Exsample010_MethodArray\bin\Debug\net7.0\Exsample010_MethodArray.deps.json
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Exsample010_MethodArray\bin\Debug\net7.0\Exsample010_MethodArray.runtimeconfig.json
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Exsample010_MethodArray\bin\Debug\net7.0\Exsample010_MethodArray.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Exsample010_MethodArray\bin\Debug\net7.0\Exsample010_MethodArray.pdb
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Exsample010_MethodArray\obj\Debug\net7.0\Exsample010_MethodArray.csproj.AssemblyReference.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Exsample010_MethodArray\obj\Debug\net7.0\Exsample010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Exsample010_MethodArray\obj\Debug\net7.0\Exsample010_MethodArray.AssemblyInfoInputs.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Exsample010_MethodArray\obj\Debug\net7.0\Exsample010_MethodArray.AssemblyInfo.cs
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Exsample010_MethodArray\obj\Debug\net7.0\Exsample010_MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Exsample010_MethodArray\obj\Debug\net7.0\Exsample010_MethodArray.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Exsample010_MethodArray\obj\Debug\net7.0\refint\Exsample010_MethodArray.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Exsample010_MethodArray\obj\Debug\net7.0\Exsample010_MethodArray.pdb
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Exsample010_MethodArray\obj\Debug\net7.0\Exsample010_MethodArray.genruntimeconfig.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Exsample010_MethodArray\obj\Debug\net7.0\ref\Exsample010_MethodArray.dll
