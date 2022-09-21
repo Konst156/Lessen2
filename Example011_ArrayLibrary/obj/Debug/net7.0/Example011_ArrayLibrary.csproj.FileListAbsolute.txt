@@ -1,0 +1,15 @@
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Example011_ArrayLibrary\bin\Debug\net7.0\Example011_ArrayLibrary.exe
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Example011_ArrayLibrary\bin\Debug\net7.0\Example011_ArrayLibrary.deps.json
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Example011_ArrayLibrary\bin\Debug\net7.0\Example011_ArrayLibrary.runtimeconfig.json
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Example011_ArrayLibrary\bin\Debug\net7.0\Example011_ArrayLibrary.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Example011_ArrayLibrary\bin\Debug\net7.0\Example011_ArrayLibrary.pdb
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.AssemblyInfo.cs
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Example011_ArrayLibrary\obj\Debug\net7.0\refint\Example011_ArrayLibrary.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.pdb
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Example011_ArrayLibrary\obj\Debug\net7.0\Example011_ArrayLibrary.genruntimeconfig.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\Lessen2\Example011_ArrayLibrary\obj\Debug\net7.0\ref\Example011_ArrayLibrary.dll
